@@ -15,5 +15,12 @@
       <guid>https://gbone3176.github.io/post/blog1/</guid>
       <description>process record On June 30, 2024, I tried to build my first personal blog using the hugo+github solution</description>
     </item>
+    <item>
+      <title>Diffusion notes</title>
+      <link>https://gbone3176.github.io/post/diffusion-notes/</link>
+      <pubDate>Sun, 30 Jun 2024 18:12:52 +0800</pubDate>
+      <guid>https://gbone3176.github.io/post/diffusion-notes/</guid>
+      <description>Notes for learning Diffusion </description>
+    </item>
   </channel>
 </rss>
