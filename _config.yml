@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bowen Guo 郭博文"
+title                    : "郭博文  Bowen Guo"
 title_separator          : "-"
 name                     : &name "Bowen Guo"
 description              : &description "personal description"
@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Contacting List"
   pronouns         : # example: "she/her"  
-  bio              : "stay foolish, stay hungry"
+  bio              : "Stay foolish, Stay hungry"
   location         : "Shanghai"
   employer         : "FuDan University"
-  uri              : "https://www.fudan.edu.cn/"
+#  uri              : "https://www.fudan.edu.cn/"
   email            : "gbone0790@gmail.com"
 
   # Academic websites
