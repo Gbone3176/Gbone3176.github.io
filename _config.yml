@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bowen Guo / Site Title"
+title                    : "Bowen Guo 郭博文"
 title_separator          : "-"
 name                     : &name "Bowen Guo"
 description              : &description "personal description"
-url                      : https://gbone3176.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://gbone3176.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gbone3176/gbone3176.github.io"
 
@@ -25,7 +25,7 @@ author:
   name             : "Contacting List"
   pronouns         : # example: "she/her"  
   bio              : "stay foolish, stay hungry"
-  location         : "No. 220, Handan Road, Yangpu District, Shanghai"
+  location         : "Shanghai"
   employer         : "FuDan University"
   uri              : "https://www.fudan.edu.cn/"
   email            : "gbone0790@gmail.com"
