@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "郭博文  Bowen Guo"
+title                    : "Bowen Guo's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Bowen Guo"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "gbone3176/gbone3176.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Contacting List"
+  name             : "Bowen Guo"
   pronouns         : # example: "she/her"  
   bio              : "Stay foolish, Stay hungry"
   location         : "Shanghai"
