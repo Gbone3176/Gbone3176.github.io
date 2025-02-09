@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Webpage of Bowen Guo"
+title: "Bowen's Personal Homepage"
 author_profile: true
 redirect_from: 
   - /about/
