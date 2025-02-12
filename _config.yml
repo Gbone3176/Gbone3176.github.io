@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Bowen Guo's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Bowen Guo"
+name                     : &name "郭博文 Bowen Guo"
 description              : &description "personal description"
 url                      : "https://gbone3176.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
