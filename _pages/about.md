@@ -48,8 +48,6 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
----
-
 # 郭博文
 
 **联系方式**  
@@ -69,29 +67,39 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 - **GPA: 3.66/4.0 (专业前 3%)**  主修课程：计算机体系结构(A)、信号与系统(A)、医学超声技术(A)、数字信号处理(A)、数字图像处理(A)、数字逻辑基础(A)、线性代数(A-)等。  
 
 - **曾获荣誉**  
--- **2023年、2024年本科生国家奖学金**  
+-- **2023年、2024年 本科生国家奖学金**  
+-- **2025年 上海市优秀毕业生** 
 -- 2023年信息科学与工程学院“逐月”奖学金  
 -- 2022-2023学年 复旦大学优秀团干部优秀学生  
 -- **2024年全国大学生统计建模大赛省级二等奖**  
 -- **2023年全国大学生光电设计大赛省级二等奖**  
 -- 2023年上海市大学生工程与创新能力大赛二等奖  
 
+### 复旦大学  
+**医学影像与人工智能，生物医学工程与技术创新学院 | 博士研究生**   2025.09—2030.06  
+
+- **曾获荣誉** 
+-- **入选复旦大学第五期卓越博士生计划**  
 ---
 
 ## 科研经历
 
-### CPDM：Prototype-Driven Class-Conditional Synthesis for High-Quality Chest X-ray Image Generation  |  **IEEE·EMBC 一作在投**  
+### CPDM：Prototype-Driven Class-Conditional Synthesis for High-Quality Chest X-ray Image Generation  |  **IEEE·EMBC(CCF-C) 一作**  
 
 - 提出类别原型驱动的扩散模型（CPDM），通过构造类别原型库和类别与类别的隐空间特征之间的交叉注意力机制，解决医学影像生成中的类别不平衡问题，同时提升图像质量和多样性。在胸部X光片生成任务上超过styleGAN3、U-Vit等SOTA模型。
 
-### VAP-Diffusion: Harnessing the power of MLLM for complex medical data generation  |  **MICCAI 二作在投**
-  
+### VAP-Diffusion: Harnessing the power of MLLM for complex medical data generation  |  **MICCAI(CCF-B) 共一第三**
 
-- 提出基础视觉提示策略，基于Chain-of-Thought 逐步提示MLLM 准确描述医学图像。提出多模态原型注入机制，构造基于类别的多模态原型库，辅助扩散模型类别解码。在ISIC2019，ISIC2018，结直肠（私有），ChestX-ray14等六个数据集上实现SOTA。
+- 提出基础视觉提示策略，基于CoT方法逐步提示MLLM准确描述医学图像，挖掘医学图像复杂视觉属性信息。同时提出针对扩散模型的跨模态原型注入机制，通过构造基于类别的多模态原型库，辅助扩散模型利用视觉属性提示重建图像数据分布。在ISIC2019，ISIC2018，结直肠（私有），ChestX-ray14等六个数据集上实现SOTA
+
+### 基于通用医学文生图框架的文本编码器研究  | 本科毕业设计
+
+- 本论文基于U-Vit框架提出了一个能够有效分析各类文本编码器在医学文生图任务中的综合性能的通用文生图框架，并基于此框架对当前生物医学领域主流的文本编码器如BioLinkBERT，RadBERT，BioMedCLIP，PubMedCLIP等在医学文生图任务上的表现进行了对比研究。
 
 ---
 
 ## 项目经历
+
 
 ### 基于simCLR-V2的隐空间CXR图像特征提取网络  |  **2024.03-2024.05**  
 
